@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/chloe_image" />
+        app:srcCompat="@drawable/profile_image" />
 
     <TextView
         android:id="@+id/profile_comment_text"
@@ -69,7 +69,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
             android:layout_weight="1"
-            android:backgroundTint="#969696"
+            android:backgroundTint="#00B4DC"
             android:text="好きな食べ物"
             android:textSize="16sp" />
 
